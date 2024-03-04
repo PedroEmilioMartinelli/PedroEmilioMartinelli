@@ -4,8 +4,7 @@
 - 👨🏻‍💻 Trabalho com desenvolvimento Backend
 - 📚 Estou cursando Engenharia de Software 
 - 🤔 Estou sempre em busca de novos conhecimentos
-- 📫 E-mail de contato: pedroemiliomartinelli@protonmail.com / pedroemiliomartinelli@gmail.com
-- 😄 Pronouns:Ele/dele
+
 
 <div align="center">
   <a href="https://github.com/PedroEmilioMartinelli">
