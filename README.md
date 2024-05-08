@@ -8,7 +8,7 @@ I'm a full-stack developer with a focus on back-end development, and I recently 
 
  ### 📖 About me
  - 👨🏻‍🎓 I'm studying Software Engineering at UNIJUI.
- - 🔎 i am looking for my first job oprtunidade.
+ - 🔎 i am looking for my first job opportunity.
  - 😀 I love quantum computing and artificial intelligence.
    
 
