@@ -1,6 +1,6 @@
 ## 🧑🏻‍💻Pedro Emilio Martinelli
 
- **`Software Engineering Student (Student Mobile Development ans Back-End)`**
+ **`Software Engineering Student (Student Mobile Development and Back-End)`**
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroEmilioMartinelli&color=yellow" alt="Profile views" /> </p>
 
 
