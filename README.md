@@ -4,11 +4,15 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroEmilioMartinelli&color=yellow" alt="Profile views" /> </p>
 
 
-I'm a full-stack developer with a focus on back-end development, and I recently started venturing into mobile development. All coding projects are built from scratch, from planning and design to solving real-world problems with code
+I'm a full-stack developer with a focus on back-end development, and I recently started venturing into mobile development. All coding projects are built from scratch, from planning and design to solving real-world problems with code. 
 
  ### About me
+ - 👨🏻‍🎓 I'm studying Software Engineering at UNIJUI.
+ - 🔎 i am looking for my first job oprtunidade.
+ - 😀 I love quantum computing and artificial intelligence.
+   
 
--
+
 
 <a href="https://www.linkedin.com/in/pedro-emilio-martinelli-792303262/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Pedro Emilio Martinelli-05122A?style=flat&logo=linkedin" alt="linkedin"/>
