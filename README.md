@@ -17,7 +17,7 @@ I'm a full-stack developer with a focus on back-end development, and I recently 
 <a href="https://www.linkedin.com/in/pedro-emilio-martinelli-792303262/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Pedro Emilio Martinelli-05122A?style=flat&logo=linkedin" alt="linkedin"/>
  
----
+
 
 ### 🧰 Languages and Tools
 
