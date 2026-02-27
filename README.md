@@ -1,16 +1,12 @@
 ## 🧑🏻‍💻Pedro Emilio Martinelli
 
- **`Software Engineering Student (Student Mobile Development and Back-End)`**
+ **`cybersecurity`**
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroEmilioMartinelli&color=yellow" alt="Profile views" /> </p>
 
 
-I'm a full-stack developer with a focus on back-end development, and I recently started venturing into mobile development. All coding projects are built from scratch, from planning and design to solving real-world problems with code. 
+Software Engineering student with a strong foundation in Information Security, Linux systems, and secure. Focused on vulnerability management, monitoring (SIEM/XDR), and secure infrastructure practices.
 
- ### 📖 About me
- - 👨🏻‍🎓 I'm studying Software Engineering at UNIJUI.
- - 🔎 i am looking for my first job opportunity.
- - 😀 I love quantum computing and artificial intelligence.
-   
+My goal is to specialize in cybersecurity, combining development knowledge with defensive security strategies to build resilient systems.
 
 
 
