@@ -31,23 +31,3 @@ My goal is to specialize in cybersecurity, combining development knowledge with 
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 <br />
-
----
-
-
-<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"/>
-
-
----
-
-
- ### 📊 Stats
- 
-<div align="center">
-  <a href="https://github.com/PedroEmilioMartinelli">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroEmilioMartinelli&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEmilioMartinelli&layout=compact&langs_count=16&theme=gruvbox"/>
-
-
-
- 
