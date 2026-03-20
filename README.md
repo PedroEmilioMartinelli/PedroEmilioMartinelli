@@ -6,7 +6,7 @@
 
 [![Visualizações](https://komarev.com/ghpvc/?username=PedroEmilioMartinelli&color=yellow&style=flat-square&label=visitas+ao+perfil)](https://github.com/PedroEmilioMartinelli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-emilio-martinelli-792303262/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-taupe-one-40.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-np2n.vercel.app/)
 
 </div>
 
